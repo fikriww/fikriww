@@ -1,7 +1,6 @@
 # Haloooo , aku Cipta! 
 
 <div align="center">
-  <img src="./016.jpg" width="250" alt="I'm here!!" />
   <img src="./015 (1)22.png" width="450" alt="Volleyball Court" />
 </div>
 
