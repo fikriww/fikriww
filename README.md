@@ -49,4 +49,4 @@ Saya adalah mahasiswa Ilmu Komputer semester 6 di **Universitas Diponegoro (UNDI
 
 ### ⚡ Fun Facts
 - Kalo lagi nggak *coding* atau *ngelab* atau nugas atau buka tlx atau leetcode, aku biasanya nonton anime, baca komik, dengerin podcast.
-- I pour my 11k+ hours of my souls into dota 2 ( 2015 - 2022 )
+- I pour my 11404 hours of my souls into dota 2 ( 2013 - 2022 )
