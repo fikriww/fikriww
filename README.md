@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Cipta! 🚀
+# Haloooo , aku Cipta! 
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;AI+%26+Mobile+Dev+Enthusiast;GCP+Learner)
 
