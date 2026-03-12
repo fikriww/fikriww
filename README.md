@@ -1,7 +1,7 @@
 # Haloooo , aku Cipta! 
 
 <div align="center">
-  <img src="./015 (1)22.png" width="450" alt="Volleyball Court" />
+  <img src="./327496103_5801098729986199_2838656616465001112_n.png" width="450" alt="foto" />
 </div>
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;AI+%26+Mobile+Dev;Cita-Cita+top1+tlx+(bohong))
