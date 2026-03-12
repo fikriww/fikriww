@@ -43,6 +43,9 @@ Saya adalah mahasiswa Ilmu Komputer semester 6 di **Universitas Diponegoro (UNDI
   <a href="https://www.linkedin.com/in/cipta-wiratama/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://myanimelist.net/profile/fReeze-" target="_blank">
+    <img src="https://img.shields.io/badge/-MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white" alt="MyAnimeList"/>
+  </a>
 </p>
 
 ---
