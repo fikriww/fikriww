@@ -1,9 +1,5 @@
 # Haloooo , aku Cipta! 
 
-<div align="center">
-  <img src="./327496103_5801098729986199_2838656616465001112_n.png" width="450" alt="foto" />
-</div>
-
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=9999&color=36BCF7&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;AI+%26+Mobile+Dev;Cita-Cita+top1+tlx+(bohong))
 
 Saya adalah mahasiswa Ilmu Komputer semester 6 di **Universitas Diponegoro (UNDIP)** yang sangat antusias dengan pengembangan *software*, AI, dan *cloud computing*. Saat ini, saya sedang aktif mengeksplorasi berbagai teknologi modern untuk membangun aplikasi yang efisien dan *scalable*.
