@@ -5,7 +5,7 @@
 Saya adalah mahasiswa Ilmu Komputer semester 6 di **Universitas Diponegoro (UNDIP)** yang sangat antusias dengan pengembangan *software*, AI, dan *cloud computing*. Saat ini, saya sedang aktif mengeksplorasi berbagai teknologi modern untuk membangun aplikasi yang efisien dan *scalable*.
 
 ### 🔭 What I'm currently up to:
-- working on **[Careguard Mobile Protection](https://google.com)**
+- working on **[Careguard Mobile Protection](https://www.google.com/search?q=Careguard+Mobile+Protection)**
 
 ---
 
