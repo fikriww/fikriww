@@ -5,7 +5,7 @@
 Saya adalah mahasiswa Ilmu Komputer semester 6 di **Universitas Diponegoro (UNDIP)** yang sangat antusias dengan pengembangan *software*, AI, dan *cloud computing*. Saat ini, saya sedang aktif mengeksplorasi berbagai teknologi modern untuk membangun aplikasi yang efisien dan *scalable*.
 
 ### 🔭 What I'm currently up to:
-- 
+- working on Careguard Mobile Protection (https://play.google.com/store/apps/details?id=com.careguard.cmp&hl=id) 
 
 ---
 
@@ -49,7 +49,5 @@ Saya adalah mahasiswa Ilmu Komputer semester 6 di **Universitas Diponegoro (UNDI
 </p>
 
 ---
-
-### ⚡ Fun Facts
-- suka nonton anime, baca komik, dengerin podcast.
-- I spent over 11404 hours of my life and souls into dota 2 ( 2016 - 2021 )
+smurf account:
+https://github.com/reon01425-glitch
